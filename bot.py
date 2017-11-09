@@ -121,9 +121,9 @@ class Selfbot(commands.Bot):
 
     async def ping(self, ctx):
 
-        """Pong! Check If Bot Is Working"""
+        """Aye, aye, dat banana boi! Selfbot at your service."""
 
-        await ctx.send("Pong!")
+        await ctx.send("Aye, aye, dat banana boi! Selfbot at your service.")
 
     
 
